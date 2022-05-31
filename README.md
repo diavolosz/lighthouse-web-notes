@@ -7,6 +7,8 @@
 # Michael's Note
 
 ## Summary 
-This repository contains all of the notes taken by Michael Le for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Michael Le](https://github.com/diavolosz?tab=repositories) for the Lighthouse Labs Web Development Bootcamp.
 
-this is the link to [Michael's repository](https://github.com/diavolosz])
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
